@@ -1,6 +1,6 @@
 ﻿  Mult_Mat.cpp
-C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\AL\Multi_Matrices\enca.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
-C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\AL\Multi_Matrices\Mult_Mat.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
-C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\AL\Multi_Matrices\Mult_Mat.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
-C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\AL\Multi_Matrices\Mult_Mat.cpp(73,5): warning C4551: la llamada a la función no tiene lista de argumentos
-  Multi_Matrices.vcxproj -> C:\Users\johnychiroy\Documents\JD\UMG\2.Semestre\2.Algoritmos\C++\AL\Multi_Matrices\Debug\Multi_Matrices.exe
+C:\Users\Miguel 07\Downloads\Multi_Matrices-20211025T023744Z-001\Multi_Matrices\enca.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinición de macro
+C:\Users\Miguel 07\Downloads\Multi_Matrices-20211025T023744Z-001\Multi_Matrices\Mult_Mat.cpp : message : vea la definición anterior de '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Miguel 07\Downloads\Multi_Matrices-20211025T023744Z-001\Multi_Matrices\Mult_Mat.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Miguel 07\Downloads\Multi_Matrices-20211025T023744Z-001\Multi_Matrices\Mult_Mat.cpp(93,5): warning C4551: la llamada a la función no tiene lista de argumentos
+  Multi_Matrices.vcxproj -> C:\Users\Miguel 07\Downloads\Multi_Matrices-20211025T023744Z-001\Multi_Matrices\Debug\Multi_Matrices.exe

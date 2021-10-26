@@ -9,6 +9,7 @@
 #define impr printf
 #define pause() getchar
 #define pos gotoxy
+
 using namespace std;
 
 void gotoxy(int x, int y)
